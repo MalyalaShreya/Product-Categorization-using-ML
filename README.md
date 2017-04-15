@@ -17,13 +17,19 @@
 
 ### Steps to run the program
 
-> $ cabal install hnn
-
-> $ cabal install stemmer
-
-> $ ghc Main.hs
-
-> $ ghc ./Main
+* To install module for neural networks
+```
+$ cabal install hnn
+```
+* To install NPL.Stemmer
+```
+$ cabal install stemmer
+```
+* To run the main program
+```
+$ ghc Main.hs
+$ ghc ./Main
+```
 
 ### Results
 
@@ -116,3 +122,4 @@ Threshold value : 0.7
 	* k nearest neighbours
 
 
+	
