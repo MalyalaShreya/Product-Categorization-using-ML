@@ -33,7 +33,7 @@ Threshold value : 0.7
 
 * Test Case 1
 
-| Actual Product | Neural Networks | KMeans | Naive Bayes |
+| Actual Product | Neural Networks | Kmeans | Naive Bayes |
 |:---:|:---:|:---:|:---:|
 | Automobiles | Automobiles | Automobiles | Automobiles |
 | Automobiles  | Electronics | Automobiles | Automobiles |
@@ -42,11 +42,11 @@ Threshold value : 0.7
 | Home  | Automobiles | Electronics | Home |
 | Home | Automobiles | Electronics | Home |
 
-
+&nbsp;
 
 * Test Case 2
 
-| Actual Product | Neural Networks | KMeans | Naive Bayes |
+| Actual Product | Neural Networks | Kmeans | Naive Bayes |
 |:---:|:---:|:---:|:---:|
 | Automobiles | Automobiles | Home | Automobiles |
 | Automobiles  | Electronics | Automobiles | Automobiles |
@@ -55,11 +55,11 @@ Threshold value : 0.7
 | Home | Electronics | Electronics | Home |
 | Home | Home | Home | Automobiles |
 
-
+&nbsp;
 
 * Test Case 3
 
-| Actual Product | Neural Networks | KMeans | Naive Bayes |
+| Actual Product | Neural Networks | Kmeans | Naive Bayes |
 |:---:|:---:|:---:|:---:|
 | Automobiles | Home | Home | Automobiles |
 | Automobiles  | Home | Automobiles | Automobiles |
@@ -68,10 +68,11 @@ Threshold value : 0.7
 | Home  | Automobiles | Home | Home |
 | Home | Automobiles | Home | Home|
 
+&nbsp;
 
 * Test Case 4
 
-| Actual Product | Neural Networks | KMeans | Naive Bayes |
+| Actual Product | Neural Networks | Kmeans | Naive Bayes |
 |:---:|:---:|:---:|:---:|
 | Automobiles | Home | Automobiles | Automobiles |
 | Automobiles  | Home | Automobiles | Automobiles |
@@ -80,9 +81,11 @@ Threshold value : 0.7
 | Home  | Automobiles | Automobiles | Home |
 | Home | Automobiles | Home | Home |
 
+&nbsp;
+
 * Test Case 5
 
-| Actual Product | Neural Networks | KMeans | Naive Bayes |
+| Actual Product | Neural Networks | Kmeans | Naive Bayes |
 |:---:|:---:|:---:|:---:|
 | Automobiles | Automobiles | Automobiles | Automobiles |
 | Automobiles  | Home | Automobiles | Automobiles |
@@ -90,6 +93,8 @@ Threshold value : 0.7
 | Electronics  | Automobiles | Electronics | Electronics |
 | Home  | Automobiles | Home | Home |
 | Home | Automobiles | Home | Home |
+
+&nbsp;
 
 ### Observartions
 * The correctness of Neural Networks depends on the following:
