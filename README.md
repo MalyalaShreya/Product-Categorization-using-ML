@@ -25,10 +25,15 @@ $ cabal install hnn
 ```
 $ cabal install stemmer
 ```
-* To run the main program
+* To run the main program with pre defined test cases
 ```
 $ ghc Main.hs
 $ ghc ./Main
+```
+* To run the main program with user defined test cases
+```
+$ ghc Test.hs
+$ ghc ./Test
 ```
 
 ### Results

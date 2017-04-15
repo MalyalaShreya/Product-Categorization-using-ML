@@ -1,0 +1,24 @@
+ITEM Automobile
+Brand=Precision European Motorwerks
+Feature=Make Sure to Check your Year/Make/Model in the Application chart below Feature=4 Brand New Wheel Spacers. Bolt Pattern: 5x114.3 (5x4.5). Hub Bore: 71.5. Spacer Thickness: 50mm (2 inch). Stud/Nut Thread Pitch: 1/2" Feature=CNC Machined using High Quality Aerospace Aluminum Feature=Hubcentric Wheel Spacers with Wheel-Centric Lip. This means it will fit perfectly over your hub - eliminating possibility of vibrations. Perfect for fixing clearance issues if your wheel(s) is hitting your shocks or brake calipers Feature=Designed to move the wheels further out from the hub, giving your vehicle a more aggressive stance & allows for better handling characteristics 
+Title=4pc 2.0" Thick | 5x4.5 to 5x4.5 Hubcentric Wheel Spacers | for Jeep Grand Cherokee Wrangler & More
+ITEM Automobile
+Brand=Rugged Ridge
+Feature=Black extra thick 6061T6 aluminum Feature=Grade-8 Extra Strength Hardware Feature=Weather resistant Feature=Pair Feature=Limited 5 Year Warranty 
+Title=Rugged Ridge 15201.05 1.5" Black Anodized Wheel Spacer - Pair
+ITEM Electronics
+Brand=Logitech
+Feature=Contoured shape with soft rubber grips provide all-day comfort Feature=Back/forward buttons and side-to-side scrolling plus zoom let you do more, faster Requires Logitech SetPoint software Feature=2-year battery life practically eliminates the need to replace batteries Battery life may vary based on user and computing conditions Feature=Comes with a tiny Logitech Unifying receiver that stays in your computer - plug it in, forget it Feature=3-year limited hardware warranty 
+Title=Logitech M510 Wireless Mouse
+ITEM Electronics
+Brand=Tecknet
+Feature=Adopt the 2.4G frequency technology, working distance can reach to 8M-15M, 2.4G will give you a more comfortable, convenient and exact effect than the traditional FM radio wireless mouse Feature=USB Nano Receiver, stays in your PC, so there's no need to unplug it when you move around. DPI button to select favourite cursor speed, 2000/1500/1000dpi, to suit both ordinary and gaming needs. Feature=Auto Power Off (APO): the mouse will be switched off automatically when the USB Nano receiver is disconnected with your pc, or the PC is switched off Feature=18-month battery life on 1 AA battery practically eliminates the need to replace batteries. Battery life may vary based on user and computing conditions Feature=With Battery Level Indicator, will let you know when power levels are running low 
+Title=TeckNet® M002 2.4G Nano Cordless Optical Mouse - 18 Month Battery Life - Battery Level Indicator - 2.4 GHz -3 Adjustable DPI Levels: 2000/1500/1000dPi - Nano USB wireless receiver - Grey
+ITEM Home
+Brand=LA Linen
+Feature=Our burlap is strong, versatile, easy to cut & sew Feature=Biodegradable Feature=Can be used for decor, wedding, outside in garden/nursery, craft projects Feature=Made out of 100% jute and 10 oz. per sq. yd 
+Title=60" Wide X 10 Yard Long Natural Burlap
+ITEM Home
+Brand=Dripless, Inc.
+Feature=Contractor professional open-frame hex rod caulk gun Feature=Features cut-away front cap for easy loading, compact design to easily fit into your tool box Feature=Contains built-in ladder hook, seal punch and spout cutter Feature=Professional quality designed for daily use; suitable for most caulks and sealants Feature=Available in 10-ounce caulk cartridge Feature=Steel open frame (also called skeleton frame) caulking gun for 10 oz. cartridges Feature=For use with latex, vinyl, acrylic, siliconized acrylic, and silicone Feature=Smooth pressure rod requires less force and is quieter than a ratchet-style pressure rod Feature=Cut-away front cap facilitates loading cartridge into the gun Feature=Hook on the back for hanging it on a ladder 
+Title=Dripless SH200 Contractor Professional Open-Frame Hex-Rod Caulk Gun with 10-Ounce Cartridge

@@ -1,0 +1,49 @@
+ITEM Automobile
+Brand=Alloy USA
+Feature=Red
+Feature=6061T6 Aluminum
+Feature=1.5 inch wide
+Feature=Hardware included
+Feature=Pair
+Title=Alloy USA 11300 Red 1.5" 5-on-5 Wheel Spacer - Pair
+ITEM Automobile
+Brand=Precision European Motorwerks
+Feature=Make Sure to Check your Year/Make/Model in the Application chart below
+Feature=4 Brand New Wheel Spacers. Bolt Pattern: 5x114.3 (5x4.5). Hub Bore: 71.5. Spacer Thickness: 38mm (1.5 inch). Stud/Nut Thread Pitch: 1/2"
+Feature=CNC Machined using High Quality Aerospace Aluminum
+Feature=Hubcentric Wheel Spacers with Wheel-Centric Lip. This means it will fit perfectly over your hub - eliminating possibility of vibrations. Perfect for fixing clearance issues if your wheel(s) is hitting your shocks or brake calipers
+Feature=Designed to move the wheels further out from the hub, giving your vehicle a more aggressive stance & allows for better handling characteristics
+Title=4pc 1.5" Thick | 5x4.5 to 5x4.5 Hubcentric Wheel Spacers | for Jeep Grand Cherokee Wrangler & More
+ITEM Electronics
+Brand=E-3lue
+Feature=LED scroll wheel
+Feature=High battery Endurance: 2 AA batteries (18 months max. battery life)
+Feature=Adjustable DPI: 500/1000/1800/2500
+Feature=Polling rate: 250Hz
+Feature=Frame Rate: 3000 Frame / sec
+Title=E-3lue E-Blue Mazer II 2500 DPI Blue LED 2.4GHz Wireless Optical Gaming Mouse
+ITEM Electronics
+Brand=HDE
+Feature=Slim, ergonomically-designed 2.4 GHz wireless mouse ideal for home or office use
+Feature=Mouse is compatible with most laptop and desktop computers via USB receiver (packaged inside mouse's battery slot)
+Feature=Optical tracking technology works on many different surfaces | DPI switch allows for adjustable sensitivity | Powered by two AA batteries (not included)
+Feature=Package Contents: 1 x Wireless Mouse, 1 x USB Receiver
+Feature=HDE is a registered trademark and is the only authorized seller of HDE branded products
+Title=HDE Sleek Form-Fitting Ergonomic Curved Wireless 2.4 GHz Optical Slim Mouse with DPI Switch (White)
+ITEM Home
+Brand=Wall Pops
+Feature=Includes cork board, push pins and a dry erase marker
+Feature=Peel and stick
+Feature=Repositionable and always removable
+Feature=Safe for walls
+Feature=No sticky residue - quick and easy - includes four 13in x 13in sheets including a piece of cork
+Title=Wall Pops WPE0983 Eden Organization Set Decal
+ITEM Home
+Brand=Rust-Oleum
+Color=Black
+Feature=Soap & water clean up
+Feature=Indoor use only
+Feature=Scratch resistant
+Feature=Use on wood, metal, plaster, paper-board, hardboard
+Feature=Superior hardness
+Title=Rust-Oleum 206540 Chalkboard Brush-On, Black, 30-Ounce
