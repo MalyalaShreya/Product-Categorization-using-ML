@@ -4,21 +4,21 @@
 * Given a product, and it's details, classify it into 3 broad categories
 * Compare different classifiers, namely Naive Bayes, Kmeans and Neural Networks
 
-###Procedure followed
+### Procedure followed
 * Parse the data-sets to get the tokens
 * Get the keywords of the data-set and sort them according to frequency
 * Parse the Train and Test sets and tokenize the data
 * Convert the data into numeric data-set and store in database
 * Use the classifiers to find the category of the product
 
-###Steps to run the program
-```
-Download and install the hackage for [Neural Networks](https://hackage.haskell.org/package/hnn)
-$ cabal install stemmer
-$ ghc Main.hs
-$ ghc ./Main
-```
-###Results
+### Steps to run the program
+
+> $ cabal install hnn
+> $ cabal install stemmer
+> $ ghc Main.hs
+> $ ghc ./Main
+
+### Results
 
 > Filter for Neural Networks
 
@@ -41,6 +41,8 @@ $ ghc ./Main
 | Home  | Automobiles | Electronics | Home |
 | Home | Automobiles | Electronics | Home |
 
+
+
 * Test Case 2
 
 | Actual Product | Neural Networks | KMeans | Naive Bayes |
@@ -51,6 +53,7 @@ $ ghc ./Main
 | Electronics  | Electronics | Electronics | Electronics |
 | Home | Electronics | Electronics | Home |
 | Home | Home | Home | Automobiles |
+
 
 
 * Test Case 3
@@ -87,7 +90,7 @@ $ ghc ./Main
 | Home  | Automobiles | Home | Home |
 | Home | Automobiles | Home | Home |
 
-###Observartions
+### Observartions
 * The correctness of Neural Networks depends on the following:
 	* Number of layers
 	* Number of neurons in each layer
