@@ -14,21 +14,22 @@
 ### Steps to run the program
 
 > $ cabal install hnn
+
 > $ cabal install stemmer
+
 > $ ghc Main.hs
+
 > $ ghc ./Main
 
 ### Results
 
-> Filter for Neural Networks
-
-> Number of Layers : 3
-
-> Number of neurons : 9 [9] 3
-
-> Number of times trained : 1000
-
-> Threshold value : 0.7
+```
+Filter for Neural Networks
+Number of Layers : 3
+Number of neurons : 9 [9] 3
+Number of times trained : 1000
+Threshold value : 0.7
+```
 
 * Test Case 1
 
