@@ -1,7 +1,11 @@
 # Product Categorization using Supervised Machine Learning
 
 ### Objectives 
-* Given a product, and it's details, classify it into 3 broad categories
+* Given a product, and it's details, classified it into 3 broad categories namely,
+	* Automobiles
+	* Electronics
+	* Home
+
 * Compare different classifiers, namely Naive Bayes, Kmeans and Neural Networks
 
 ### Procedure followed
